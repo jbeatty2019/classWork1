@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Truck()
+comment0.text=\n\ default\ constructor\ thta\ calls\ the\ super\ class\ to\ create\ an\ object\ with\ the\ two\ vehicle\ fields\ and\ the\ doors\ fields\n
+comment1.params=w\ s\ d
+comment1.target=Truck(int,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ that\ takes\ in\ parameters\ of\ the\ number\ of\ wheels,\n\ the\ color,\ and\ the\ number\ of\ doors.\ This\ method\ calls\ the\ super\ class\ Vehicle\n\ @param\ int\ w\n\ @param\ String\ s\n\ @param\ int\ d\n
+comment2.params=
+comment2.target=int\ getDoors()
+comment2.text=\n\ Accessor\ that\ returns\ the\ field\ doors\n\ @return\ int\ doors\n
+comment3.params=d
+comment3.target=void\ setDoors(int)
+comment3.text=\n\ Modifier\ that\ sets\ the\ number\ of\ doors\ to\ the\ parameter\n\ @param\ int\ d\n
+comment4.params=w\ s\ d
+comment4.target=void\ setDescription(int,\ java.lang.String,\ int)
+comment4.text=\n\ Modifier\ that\ sets\ all\ fields\ in\ the\ object\ by\ overriding\ the\ Vehicle\ setDescription\ and\ taking\ in\ three\n\ parameters\ to\ change\n\ @param\ int\ w\n\ @param\ String\ s\n\ @param\ int\ d\n
+comment5.params=t
+comment5.target=boolean\ equals(Truck)
+comment5.text=\n\ Method\ that\ checks\ if\ the\ instance\ is\ equal\ to\ the\ parameter\ by\ checking\ all\ of\ the\ fields\ and\ overriding\n\ the\ vehicle\ class\ equals\n\ @param\ Truck\ t\n\ @return\ True\ or\ False\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ toString\ method\ that\ will\ return\ a\ string\ of\ all\ fields\ using\ the\ superclasses\ getWheels()\ and\ getColor()\n\ @return\ String\n
+comment7.params=
+comment7.target=java.lang.String\ costRange()
+comment7.text=\n\ Method\ that\ returns\ a\ string\ of\ how\ much\ the\ vehicle\ will\ cost\n\ @return\ String\n
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bike()
+comment0.text=\n\ Default\ constructor\ that\ calls\ classVehicle\ and\ has\ parameters\ 2\ and\ "red"\n\ \n
+comment1.params=
+comment1.target=java.lang.String\ costRange()
+comment1.text=\n\ Method\ that\ returns\ a\ string\ of\ the\ cost\ of\ this\ object\n\ @return\ String\n
+numComments=2
